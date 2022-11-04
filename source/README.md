@@ -28,7 +28,7 @@ Jupyter notebook
 
 # RUN INSTRUCTIONS
 
-1.Install all the required libraries and Import the ATM folder in jupyter notebook
+1.Install all the required libraries and Import the Stab detection_Deep learning folder in jupyter notebook
 
 2.Run the GUI.ipynb file in jupyter notebook
 
@@ -68,7 +68,7 @@ Jupyter notebook
   
   # Run Instructions
    
-   Unzip the downloaded folder and open the detect.ipynb file 
+   Unzip the downloaded folder (Stab detection_Azure) and open the detect.ipynb file 
    
    A tkinter windoe pops up
    
