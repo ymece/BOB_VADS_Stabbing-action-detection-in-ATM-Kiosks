@@ -46,8 +46,8 @@ Next, Perform the knifeinhand detection using yolov5
 	
 Finally, to perform Lucas Kanade method for motion estimation, upload the output of yolov5
 
-#  STABBING ACTION DETECTION IN ATM KIOSKS
-Prototype 2:
+#  STABBING ACTION DETECTION IN ATM KIOSKS (Git push - master branch)
+Prototype 2: 
 We have developed a GUI to detect the abnormal activitiy of stabbing with knife inside ATM and bank premises using Microsoft Azure - custom vision object detection model(with alarm system)
 We have used a custom dataset with knife in hand (for training and prediction) collected from various resources.
 
